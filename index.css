@@ -1,0 +1,35 @@
+.grijs {
+    color: #939598;
+}
+
+h1 {
+    color: red;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: black;
+    font-family: sans-serif;
+}
+
+p {
+    color: grey;
+    font-family: sans-serif;
+}
+
+a {
+    color: white;
+    padding: 10px;
+    background-color: red;
+    text-decoration: none;
+    border-radius: 20px;
+    font-family: sans-serif;
+}
+
+a:hover {
+    background-color: orange;
+}
+
+image {
+    float: left;
+}
