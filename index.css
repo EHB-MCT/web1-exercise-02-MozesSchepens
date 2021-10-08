@@ -3,27 +3,24 @@
 }
 
 h1 {
-    color: red;
-    font-family: sans-serif;
+    color: #f65b5c;
+}
+
+p {
+    color: #939598;
+    margin-bottom: 30px;
 }
 
 h2 {
     color: black;
-    font-family: sans-serif;
-}
-
-p {
-    color: grey;
-    font-family: sans-serif;
 }
 
 a {
-    color: white;
-    padding: 10px;
-    background-color: red;
+    background-color: #f65b5c;
+    padding: 15px;
+    color: #FFF;
     text-decoration: none;
-    border-radius: 20px;
-    font-family: sans-serif;
+    font-weight: bold;
 }
 
 a:hover {
@@ -32,4 +29,10 @@ a:hover {
 
 image {
     float: left;
+}
+
+body {
+    background-color: #e9eaea;
+    font-family: sans-serif;
+    margin: 50px;
 }
